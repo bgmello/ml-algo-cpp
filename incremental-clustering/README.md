@@ -24,3 +24,6 @@ This will create a executable called incrClus which can be run with 1 to 3 param
 
 - 3 parameters: Use the first as n, the second as alpha and the third as the file.
 
+The input file should have a string in each line representing each sentence.
+
+The output file will have one sentence and it cluster in each line.  
